@@ -1,0 +1,372 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NEKIT//Steam Sales Calendar//RU//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:steam-boardgames-2026@steam
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260203
+SUMMARY:Steam — Фестиваль настольных игр
+DESCRIPTION:Скидки и демо в рамках фестиваля настольных игр
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль настольных игр начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-printing-2026@steam
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260210
+SUMMARY:Steam — Фестиваль печатания (spotlight)
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль печатания начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-pvp-2026@steam
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260217
+SUMMARY:Steam — Фестиваль PvP
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль PvP начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-horses-2026@steam
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260224
+SUMMARY:Steam — Фестиваль игр про лошадей (spotlight)
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль игр про лошадей начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-nextfest-2026@steam
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260303
+SUMMARY:Steam — Февральский фестиваль «Играм быть»
+COLOR:#7CFC00
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Февральский фестиваль «Играм быть» начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-td-2026@steam
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260317
+SUMMARY:Steam — Фестиваль Tower Defense
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль Tower Defense начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-spring-sale-2026@steam
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260327
+SUMMARY:Steam — Весенняя распродажа
+COLOR:#87CEFA
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Весенняя распродажа начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-home-2026@steam
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260407
+SUMMARY:Steam — Фестиваль дома и интерьера
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль дома и интерьера начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-hidden-2026@steam
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260414
+SUMMARY:Steam — Фестиваль поиска предметов (spotlight)
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль поиска предметов начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-medieval-2026@steam
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260428
+SUMMARY:Steam — Фестиваль Средневековья
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль Средневековья начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-deckbuilder-2026@steam
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260512
+SUMMARY:Steam — Фестиваль построения колод
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль построения колод начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-sea-2026@steam
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260526
+SUMMARY:Steam — Фестиваль морей и океанов
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль морей и океанов начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-bullet-2026@steam
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260616
+SUMMARY:Steam — Фестиваль пуль
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль пуль начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-nextfest-june-2026@steam
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260623
+SUMMARY:Steam — Июньский фестиваль «Играм быть»
+COLOR:#7CFC00
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Июньский фестиваль «Играм быть» начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-summer-sale-2026@steam
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260710
+SUMMARY:Steam — Летняя распродажа
+COLOR:#87CEFA
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Летняя распродажа начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-social-deduction-2026@steam
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260717
+SUMMARY:Steam — Фестиваль социальной дедукции
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль социальной дедукции начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-trains-2026@steam
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260728
+SUMMARY:Steam — Фестиваль поездов
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль поездов начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-cyberpunk-2026@steam
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260811
+SUMMARY:Steam — Фестиваль киберпанка
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль киберпанка начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-bowling-2026@steam
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260821
+SUMMARY:Steam — Фестиваль кеглей и колышков
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль кеглей и колышков начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-survival-pve-2026@steam
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260908
+SUMMARY:Steam — Фестиваль выживания и крафтинга (PvE)
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль выживания и крафтинга начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-programming-2026@steam
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260915
+SUMMARY:Steam — Фестиваль программирования
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль программирования начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-party-rpg-2026@steam
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260922
+SUMMARY:Steam — Фестиваль групповых ролевых игр
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль групповых ролевых игр начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-autumn-sale-2026@steam
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261009
+SUMMARY:Steam — Осенняя распродажа
+COLOR:#87CEFA
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Осенняя распродажа steam начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-cooking-2026@steam
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261020
+SUMMARY:Steam — Кулинарный фестиваль
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Кулинарный фестиваль начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-nextfest-oct-2026@steam
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261027
+SUMMARY:Steam — Октябрьский фестиваль «Играм быть»
+COLOR:#7CFC00
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Октябрьский фестиваль «Играм быть» начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-screamfest-5-2026@steam
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261103
+SUMMARY:Steam — «Страхи в Steam 5»
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — «Страхи в Steam 5» начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-autobattler-rpg-2026@steam
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261124
+SUMMARY:Steam — Фестиваль ролевых автобаттлеров
+COLOR:#FFE4E1
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Фестиваль ролевых автобаттлеров начинается завтра!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:steam-winter-sale-2026@steam
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20270105
+SUMMARY:Steam — Зимняя распродажа
+COLOR:#87CEFA
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Напоминание: Steam — Зимняя распродажа начинается завтра!
+END:VALARM
+END:VEVENT
+
+END:VCALENDAR
